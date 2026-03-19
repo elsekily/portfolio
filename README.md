@@ -1,6 +1,6 @@
 # Portfolio - CV
 
-Just a simple html page also hosted at Github Pages [YoussefElsekily](https://elsekily.github.io/portfolio/)
+Just a simple html page also hosted at Github Pages [Youssef Elsekily](https://elsekily.github.io/portfolio/)
 
     Html
     CSS
